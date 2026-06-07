@@ -1,0 +1,7 @@
+-r requirements.txt
+
+# Install these in WSL2 or Linux for the final stretch unless native Windows
+# support is working smoothly for you at that time.
+torch
+pufferlib
+
