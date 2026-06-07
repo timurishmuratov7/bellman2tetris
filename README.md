@@ -100,13 +100,3 @@ The goal is not to learn every RL algorithm. The goal is to build a strong stair
 4. Tetris board mechanics and features.
 5. A Gymnasium Tetris environment.
 6. A PufferLib-compatible wrapper and training entry point.
-
-## Important Honesty Clause
-
-"Solve Tetris" is ambitious. For this repo, treat success as:
-
-- your environment works correctly,
-- a simple baseline policy beats random,
-- and your final RL training setup learns a stable non-trivial strategy.
-
-If you exceed that and get strong play on full-size Tetris, even better.
